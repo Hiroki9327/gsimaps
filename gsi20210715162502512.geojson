@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "コイキングいそうなところ",
+        "_color": "#000000",
+        "_opacity": 0.5,
+        "_weight": 3
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            139.41095,
+            35.570281
+          ],
+          [
+            139.412001,
+            35.568658
+          ],
+          [
+            139.41227,
+            35.567742
+          ],
+          [
+            139.412731,
+            35.567864
+          ],
+          [
+            139.412034,
+            35.569854
+          ],
+          [
+            139.411368,
+            35.570395
+          ],
+          [
+            139.410862,
+            35.570204
+          ],
+          [
+            139.410964,
+            35.570244
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "コイキングがいそうなところ",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.411413,
+          35.570062
+        ]
+      }
+    }
+  ]
+}
